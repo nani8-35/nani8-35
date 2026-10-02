@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Akash Yeginati 👋
 
-<!--
-**nani8-35/nani8-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Development Engineer focused on building reliable full-stack and AI-powered systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+Java · C++ · JavaScript · TypeScript · React · Node.js · FastAPI · SQL · PostgreSQL · Docker · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+**Lenny Growth Assistant** — full-stack RAG research workspace using React, FastAPI, PostgreSQL/pgvector, Docker, and local/cloud LLM workflows.  
+[View project](https://github.com/nani8-35/lenny-growth-assistant)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/akash-yeginati/)
